@@ -1,4 +1,4 @@
-NOTE - The above links might not work, and I have given the links to the colab files just below.
+NOTE - The above links might not work, and I have given the links to the colab files just below.\
 This was a summer project under brain and cognitive society, IIT KANPUR (May 2020 - July 2020)
 # Comparison of neural networks with human pyschological representations
 **Abstract**:
