@@ -1,8 +1,8 @@
 # Comparison of neural networks with human pyschological representations
 Please click on the below links to colab files for full code---
 
-1)*MAIN FILE* -  https://colab.research.google.com/drive/1OiYxRpjQqeHsXOpxhnUwyREoaj0T9pUz?usp=sharing
-2)*CHECKING AGAINST SPURIOUS CORRELATIONS* - https://colab.research.google.com/drive/1_apYWnIcYwuvRtJkQRV74NRpBaB1KSOU?usp=sharing
+1) ***MAIN FILE*** -  https://colab.research.google.com/drive/1OiYxRpjQqeHsXOpxhnUwyREoaj0T9pUz?usp=sharing\
+2) ***CHECKING AGAINST SPURIOUS CORRELATIONS*** - https://colab.research.google.com/drive/1_apYWnIcYwuvRtJkQRV74NRpBaB1KSOU?usp=sharing
 
 This was a group project where, we first replicated this paper and then extended it-
 https://arxiv.org/pdf/1608.02164.pdf
