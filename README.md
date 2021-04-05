@@ -1,7 +1,9 @@
 # Summer_Project_2020
 Please click on the below links to colab files for full code---
 1)MAIN FILE -  https://colab.research.google.com/drive/1OiYxRpjQqeHsXOpxhnUwyREoaj0T9pUz?usp=sharing
+
 2)CHECKING AGAINST SPURIOUS CORRELATIONS - https://colab.research.google.com/drive/1_apYWnIcYwuvRtJkQRV74NRpBaB1KSOU?usp=sharing
+
 Comparison of neural networks with human pyschological representations
 
 This was a group project where, we first replicated this paper-
