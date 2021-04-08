@@ -12,7 +12,7 @@ Please click on the below links to colab files for the code---
 3) ***testing other cnn's***- https://colab.research.google.com/drive/1qk61zXburbj8zY28hMK37eCGA2B9G_Ua?usp=sharing
 
 This was a group project where, we first replicated the paper - https://arxiv.org/pdf/1608.02164.pdf and then extended it\
-Here is the link for the full team's project report - https://drive.google.com/file/d/1ueG9-mjVspf_nhy5Tjw80Hg-hoSpngGd/view?usp=sharing
+Here is the link for the full team's project report - https://drive.google.com/file/d/1ueG9-mjVspf_nhy5Tjw80Hg-hoSpngGd/view?usp=sharing \
 Please give this a read for a short summary - https://docs.google.com/document/d/1k6aCa698HPgjgCOgp0zlnGx_k_LVTnVAmWfPxrPm6hU/edit?usp=sharing  
 
 Then I and Sanket Agrawal under the guidance of our mentor Shashi Kant Gupta, Coodinator Brain and Cognitve Society, IIT Kanpur further extended it, and gave an entry in the 35th AAAI Student Abstract and Poster Program.
