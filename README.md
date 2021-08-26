@@ -1,4 +1,4 @@
-NOTE - The above links might not work, and I have given the links to the colab files just below.\
+NOTE - If the above links don't work please find the attached links to the colab files just below.\
 This was a summer project under brain and cognitive society, IIT KANPUR (May 2020 - July 2020)\
 Link to the club's documentation on our project - https://bcs-iitk.github.io/projects/2020/07/01/Comparing-Deep-Neural-Network-Features-With-Psychological-Representations.html
 # Comparison of neural networks with human pyschological representations
