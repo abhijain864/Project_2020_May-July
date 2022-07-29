@@ -1,5 +1,5 @@
 NOTE - If the above links don't work please find the attached links to the colab files just below.
-# Comparison of neural networks with human pyschological representations
+# Comparison of neural networks with human pyschological representations BCS IIT KANPUR
 ### This was a summer project under brain and cognitive society, IIT KANPUR (May 2020 - July 2020)
 **Link to the club's documentation on project** - https://bcs-iitk.github.io/projects/2020/07/01/Comparing-Deep-Neural-Network-Features-With-Psychological-Representations.html  
 **Abstract**:
